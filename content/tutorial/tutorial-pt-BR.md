@@ -20,7 +20,6 @@ Hoje, iremos construir um jogo da velha interativo.
 
 Se você quiser, pode ver o resultado final aqui: [Resultado final](https://codepen.io/gaearon/pen/gWWZgR?editors=0010). Não se preocupe se o código não fizer sentido para você, ou se a sintáxe não for familiar. Iremos aprender como construir esse jogo passo a passo ao longo desse tutorial.
 
-Try playing the game. You can also click on a button in the move list to go "back in time" and see what the board looked like just after that move was made.
 Tente jogar antes de começarmos. Você pode clicar no botão no histórico de jogadas para "voltar no tempo" e ver como o tabuleiro estava depois desta jogada ser feita. 
 
 Once you get a little familiar with the game, feel free to close that tab, as we'll start from a simpler template in the next sections.
