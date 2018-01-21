@@ -22,8 +22,6 @@ Se você quiser, pode ver o resultado final aqui: [Resultado final](https://code
 
 Tente jogar antes de começarmos. Você pode clicar no botão no histórico de jogadas para "voltar no tempo" e ver como o tabuleiro estava depois desta jogada ser feita. 
 
-Once you get a little familiar with the game, feel free to close that tab, as we'll start from a simpler template in the next sections.
-
 ### Pré-requisitos
 
 É esperado que você tenha algum conhecimento de HTML e JavaScript, mas você conseguirá acompanhar mesmo que não tenha usado ambos anteriormente.
@@ -38,29 +36,27 @@ Há duas formas de completar esse tutorial: você pode tanto escrever o código 
 
 Essa é a forma mais rápida.
 
-Primeiramente, abra esse [código inicial](https://codepen.io/gaearon/pen/oWWQNa?editors=0010) em uma nova aba. Isto deverá mostrar um jogo da velha vazio. Iremos editar este código ao longo do tutorial.
+Primeiramente, abra esse [código inicial](https://codepen.io/gaearon/pen/oWWQNa?editors=0010) em uma nova aba. Isto deverá mostrar um jogo da velha vazio. Iremos editar o código ao longo do tutorial.
 
-You can now skip the next section about setting up a local development environment and head straight to the [overview](#overview).
+Você pode pular a próxima parte que ensina como configurar um ambiente de desenvolvimento e começar a ler a partir de [Visão geral](#overview)
 
-#### If You Prefer to Write Code in Your Editor
-
-Alternatively, you can set up a project on your computer.
+#### Se você prefere usar o seu próprio editor de código
 
 Note: **this is completely optional and not required for this tutorial!**
 
-This is more work, but lets you work from the comfort of your editor.
+Configurar um ambiente é mais demorado, mas ao menos você usa o seu editor de sua preferência.
 
-If you want to do it, here are the steps to follow:
+Se você ainda assim deseja isto, siga o passo a passo abaixo:
 
-1. Make sure you have a recent version of [Node.js](https://nodejs.org/en/) installed.
-2. Follow the [installation instructions](/docs/add-react-to-a-new-app.html) to create a new project.
+1. Instale a última versão de [Node.js](https://nodejs.org/en/).
+2. Siga as [instruções](/docs/add-react-to-a-new-app.html) para criar um novo projeto.
 
 ```bash
 npm install -g create-react-app
 create-react-app my-app
 ```
 
-3. Delete all files in the `src/` folder of the new project (don't delete the folder, just its contents).
+3. Exclua todos os arquivos dentro da pasta `src/` do projeto (não delete a pasta, apenas o seu conteúdo).
 
 ```bash
 cd my-app
@@ -89,7 +85,7 @@ If you get stuck, check out the [community support resources](/community/support
 
 With this out of the way, let's get started!
 
-## Overview
+## Visão geral
 
 ### What is React?
 
