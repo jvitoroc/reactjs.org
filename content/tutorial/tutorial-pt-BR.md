@@ -42,7 +42,7 @@ Você pode pular a próxima parte que ensina como configurar um ambiente de dese
 
 #### Se você prefere usar o seu próprio editor de código
 
-Note: **this is completely optional and not required for this tutorial!**
+Observação: **essa parte é completamente opcional, e não obrigatória para esse tutorial**
 
 Configurar um ambiente é mais demorado, mas ao menos você usa o seu editor de sua preferência.
 
